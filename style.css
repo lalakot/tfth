@@ -1,0 +1,17 @@
+body {
+    font-family: sans-serif;
+}
+header{
+    text-decoration: none;
+    font-size: 30px;
+    background-color: white;
+    border: 2px solid rgb(68, 2, 68);
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+    color: rgb(68, 2, 68);
+}
+h1{
+    text-align: center;
+    color: rgb(68, 2, 68);
+}
